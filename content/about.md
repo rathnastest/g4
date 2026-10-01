@@ -17,4 +17,4 @@ extensions: {}
 
 # About
 
-New era
+New era MIT
